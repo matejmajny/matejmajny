@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: 
+- 📫 How to reach me: telegram(t.me/matejmajny)
 - ⚡ Fun fact: I dont know how to code, started few days ago
 
 <!--
