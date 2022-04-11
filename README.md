@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [Telegram](t.me/matejmajny)
-- ⚡ Fun fact: I dont know how to code, coding is cool by my opnion but hard to learn
+- ⚡ Fun fact: I dont know how to code, but coding is cool
 
 <!--
 **matejmajny/matejmajny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
