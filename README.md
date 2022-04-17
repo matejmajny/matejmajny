@@ -6,8 +6,7 @@
 
 ### GitHub Stats
 
-[![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=matejmajny)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Matej's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 
