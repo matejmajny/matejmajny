@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 
 - 📫 How to reach me: [Telegram](t.me/matejmajny)
-- ⚡ Fun fact: I dont know how to code (mhm maybe a bit now), but coding is cool
+- ⚡ Fun fact: ~~I dont know how to code~~, but coding is cool
 
 ### GitHub Stats
 
