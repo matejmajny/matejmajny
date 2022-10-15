@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python and JS<br>📫 How to reach me: [Telegram](t.me/matejmajny)<br>⚡ Fun fact: ~~I dont know how to code~~, but coding is cool
+🌱 I’m currently learning Arduino C<br>📫 How to reach me: [Telegram](t.me/matejmajny)<br>🧠 I know: Python, JavaScript and Basic HTML
 
 
 ## 🌐 Socials:
